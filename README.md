@@ -6,11 +6,11 @@ Welcome to **Flag Finder**, a simple React Native app designed for fun and learn
 
 Here’s a sneak peek at the app! 👀👇
 
-1️⃣ ![Image 1](./screenshots/image.png)  
-3️⃣ ![Image 2](./screenshots/image2.png)  
-4️⃣ ![Image 3](./screenshots/image3.png)  
-5️⃣ ![Image 4](./screenshots/image4.png)
-5️⃣ ![Image 5](./screenshots/image5.png)
+![Image 1](./screenshots/image.png)  
+![Image 2](./screenshots/image2.png)  
+![Image 3](./screenshots/image3.png)  
+![Image 4](./screenshots/image4.png)
+![Image 5](./screenshots/image5.png)
 
 
 ## 🎨 Design Inspiration
@@ -47,11 +47,11 @@ The design of this app was inspired by the amazing [Quiz App](https://github.com
 
 Tətbiqin görüntüləri 👀👇
 
-1️⃣ ![Şəkil 1](./screenshots/image.png)  
-2️⃣ ![Şəkil 2](./screenshots/image2.png)  
-3️⃣ ![Şəkil 3](./screenshots/image3.png)  
-4️⃣ ![Şəkil 4](./screenshots/image4.png)  
-5️⃣ ![Şəkil 5](./screenshots/image5.png)
+![Şəkil 1](./screenshots/image.png)  
+![Şəkil 2](./screenshots/image2.png)  
+![Şəkil 3](./screenshots/image3.png)  
+![Şəkil 4](./screenshots/image4.png)  
+![Şəkil 5](./screenshots/image5.png)
 
 ## 🎨 Dizaynın İlhamı
 
