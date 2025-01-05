@@ -1,50 +1,77 @@
-# Welcome to your Expo app 👋
+# 🏁 Flag Finder Mobile App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to **Flag Finder**, a simple React Native app designed for fun and learning! This app challenges you to find flags and test your geographical knowledge. 🌍🌟
 
-## Get started
+## 📸 Screenshots
 
-1. Install dependencies
+Here’s a sneak peek at the app! 👀👇
 
-   ```bash
-   npm install
-   ```
+1️⃣ ![Image 1](./screenshots/image.png)  
+2️⃣ ![Image 2](./screenshots/image1.png)  
+3️⃣ ![Image 3](./screenshots/image2.png)  
+4️⃣ ![Image 4](./screenshots/image3.png)  
+5️⃣ ![Image 5](./screenshots/image4.png)
 
-2. Start the app
+## 🎨 Design Inspiration
 
-   ```bash
-    npx expo start
-   ```
+The design of this app was inspired by the amazing [Quiz App](https://github.com/walissonsilva/quiz-app-kotlin) by Walisson Silva. Big thanks to the creator! 💡👏
 
-In the output, you'll find options to open the app in a
+## 🚀 Features
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Interactive gameplay 🕹️
+- Sleek and user-friendly design 🎯
+- Educational and entertaining 🌟
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠️ Tech Stack
 
-## Get a fresh project
+- **React Native** 📱
+- **JavaScript** 🛠️
 
-When you're ready, run:
+## How to run
 
 ```bash
-npm run reset-project
+   git clone https://github.com/abdullaabdullazade/flag-finder.git
+   cd flag-finder
+   npm i
+   npm start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+# 🏁 Bayraqları Tap Mobile App
 
-To learn more about developing your project with Expo, look at the following resources:
+**Bayraqları Tap** tətbiqinə xoş gəldiniz! Bu sadə React Native tətbiqi ilə həm əylənin, həm də öyrənin! Bu tətbiq sizin coğrafiya biliklərinizi yoxlayır. 🌍✨
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📸 Ekran Görüntüləri
 
-## Join the community
+Tətbiqin görüntüləri 👀👇
 
-Join our community of developers creating universal apps.
+1️⃣ ![Şəkil 1](./screenshots/image.png)  
+2️⃣ ![Şəkil 2](./screenshots/image1.png)  
+3️⃣ ![Şəkil 3](./screenshots/image2.png)  
+4️⃣ ![Şəkil 4](./screenshots/image3.png)  
+5️⃣ ![Şəkil 5](./screenshots/image4.png)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🎨 Dizaynın İlhamı
+
+Tətbiqin dizaynı [Quiz App](https://github.com/walissonsilva/quiz-app-kotlin) layihəsindən götürülüb. Yaradıcısına təşəkkürlər! 💡👏
+
+## 🚀 Xüsusiyyətlər
+
+- İnteraktiv oyun təcrübəsi 🕹️
+- Şık və istifadəçi dostu dizayn 🎯
+- Təhsil və əyləncə bir arada 🌟
+
+## 🛠️ Texnoloji Yığın
+
+- **React Native** 📱
+- **JavaScript** 🛠️
+
+## Necə çalışdıra bilərəm?
+
+```bash
+   git clone https://github.com/abdullaabdullazade/flag-finder.git
+   cd flag-finder
+   npm i
+   npm start
+```
