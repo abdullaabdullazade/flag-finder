@@ -34,7 +34,7 @@ const index = () => {
                 className="text-white text-center"
                 onPress={() => {
                   router.push({
-                    pathname: "startingGame", // Dəyişdirin: növbəti ekranın yolunu yazın
+                    pathname: "startingGame",
                     params: { name },
                   });
                 }}
